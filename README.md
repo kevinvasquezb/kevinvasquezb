@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Vasquez</h1>
-<h3 align="center">Petroleum Engineer │ Data Scientist Enthusiast | Machine Learning Enthusiast | R | Python</h3>
+<h3 align="center">Petroleum Engineer │ Data Science Enthusiast | Machine Learning Enthusiast | R | Python</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
