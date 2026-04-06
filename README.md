@@ -16,7 +16,7 @@
 ### 🧭 About me
 
 - 🎓 Systems Engineering student at **UTEPSA**, Santa Cruz — Bolivia (GPA 97.25/100)
-- 📡 **O&M Change Management Engineer** at **Tigo Bolivia** — observability & infrastructure
+- 📡 **O&M Change Management Engineer** at **TBol** — observability & infrastructure
 - 🛠️ Full Stack developer — Node.js · React · PostgreSQL · Docker (Tigo internal bootcamp)
 - 🔭 Former Petroleum Engineer (EMI · YPFB · Pluspetrol) — career pivot to tech
 - 🌱 Currently deepening **SRE / DevOps** practices and **ITIL 4**
