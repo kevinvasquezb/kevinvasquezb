@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Vasquez</h1>
 
 <h3 align="center">
-  Systems Engineer · O&M Engineer @ Tigo Bolivia · SRE Enthusiast
+  Systems Engineer · O&M Engineer @ TBol · SRE Enthusiast
 </h3>
 
 <p align="center">
